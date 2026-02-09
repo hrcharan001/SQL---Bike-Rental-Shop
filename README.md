@@ -4,6 +4,9 @@ This project focuses on **analyzing structured data using SQL** to extract meani
 It demonstrates the use of **core SQL concepts** such as filtering, joins, aggregations, subqueries, and conditional logic on a real-world style dataset.
 
 ---
+## Project
+- <a href="https://github.com/hrcharan001/SQL---Bike-Rental-Shop/blob/main/Bike%20rental%20-%20self%20project.sql">Click To View</a>
+
 
 ## Project Objectives
 

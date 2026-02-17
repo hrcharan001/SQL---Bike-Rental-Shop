@@ -5,7 +5,7 @@ It demonstrates the use of **core SQL concepts** such as filtering, joins, aggre
 
 ---
 ## Project
-- <a href="https://github.com/hrcharan001/SQL---Bike-Rental-Shop/blob/main/Bike%20rental%20-%20self%20project.sql">Click To View</a>
+- <a href="https://github.com/hrcharan001/SQL---Bike-Rental-Shop/blob/main/Bike%20rental%20-%20self%20project.sql">Click To View The Project</a>
 
 
 ## Project Objectives
